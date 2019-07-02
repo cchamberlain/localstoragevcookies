@@ -1,2 +1,0 @@
-# localstoragevcookies
-Created with CodeSandbox
